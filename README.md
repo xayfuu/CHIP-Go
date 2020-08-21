@@ -1,4 +1,6 @@
-# CHIP-8-Emu
+# CHIP-Go
+
+![](https://i.imgur.com/t8LV1iu.png)
 
 CHIP-8 emulator written in Go. Does not work with all ROMs.
 
